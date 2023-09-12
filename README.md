@@ -1,0 +1,5 @@
+# Triplexes
+DNA triplexes affect the processes of transcription, replication and recombination, increasing genetic instability and leading to cancer and neurodegenerative diseases. Despite the influence that DNA triplexes have on key biological processes, their regulatory code has not been studied in detail.
+In this project, I reviewed mechanisms of the influence of DNA triplexes on chromatin organization, processes of replication, recombination, and transcription; created a deep learning model to recognize triplexes sites in human genome; and revealed regulatory features contributing to the prediction.
+
+The results of the work demonstrated the effectiveness of deep learning methods for DNA triplexes recognition task. It was also shown that the use of regulatory data improves the quality of the prediction. Finally, the results suggested that triplex structures regulate transcription via stalling of RNA synthesis and facilitating binding of transcription factors which suppress nonspecific genes and activate specific ones.
